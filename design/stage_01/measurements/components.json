@@ -1,0 +1,508 @@
+{
+  "units": "cm",
+  "stage": "01 separated component studies",
+  "assembly_verified": false,
+  "concept": "Nuong dong binh yen",
+  "assets": [
+    {
+      "id": "A01",
+      "name": "Base_20x20",
+      "target_cm": [
+        20,
+        20,
+        1.2
+      ],
+      "planned_origin_cm": [
+        0,
+        0,
+        0
+      ],
+      "note": "Exact final outside footprint; no element may project beyond this outline.",
+      "station_cm": [
+        -31,
+        22,
+        0
+      ],
+      "actual_cm": [
+        20.0,
+        20.0,
+        1.2
+      ]
+    },
+    {
+      "id": "A02",
+      "name": "Mountain_tier_1",
+      "target_cm": [
+        19,
+        18.8,
+        4.0
+      ],
+      "planned_origin_cm": [
+        0,
+        0,
+        1.2
+      ],
+      "note": "Separate rock terrace. Top landing is flat; water channel and final supports remain assembly-stage work.",
+      "station_cm": [
+        -7,
+        22,
+        0
+      ],
+      "actual_cm": [
+        19.0,
+        18.8,
+        4.0
+      ]
+    },
+    {
+      "id": "A03",
+      "name": "Mountain_tier_2",
+      "target_cm": [
+        14.2,
+        12.8,
+        6.0
+      ],
+      "planned_origin_cm": [
+        -1.8,
+        2.3,
+        5.2
+      ],
+      "note": "Separate rock terrace. Top landing is flat; water channel and final supports remain assembly-stage work.",
+      "station_cm": [
+        14,
+        22,
+        0
+      ],
+      "actual_cm": [
+        14.2,
+        12.8,
+        6.0
+      ]
+    },
+    {
+      "id": "A04",
+      "name": "Mountain_tier_3",
+      "target_cm": [
+        9.2,
+        8.5,
+        6.0
+      ],
+      "planned_origin_cm": [
+        0,
+        4.1,
+        11.2
+      ],
+      "note": "Separate rock terrace. Top landing is flat; water channel and final supports remain assembly-stage work.",
+      "station_cm": [
+        31,
+        22,
+        0
+      ],
+      "actual_cm": [
+        9.2,
+        8.5,
+        6.0
+      ]
+    },
+    {
+      "id": "A05",
+      "name": "Mountain_summit",
+      "target_cm": [
+        4.2,
+        3.6,
+        8.3
+      ],
+      "planned_origin_cm": [
+        0.2,
+        7,
+        17.2
+      ],
+      "note": "Rear summit; final altitude 25.5 cm. Reserve upper horse shelf in front.",
+      "station_cm": [
+        43,
+        22,
+        0
+      ],
+      "actual_cm": [
+        4.2,
+        3.6,
+        8.3
+      ]
+    },
+    {
+      "id": "A06",
+      "name": "Horse_standing",
+      "target_cm": [
+        6.7,
+        2.15,
+        6.3
+      ],
+      "planned_origin_cm": [
+        -0.3,
+        2,
+        17.2
+      ],
+      "note": "Sculpted horse study, not a scan. Thin legs/ears need material-specific review. Comparable body scale across all three poses.",
+      "station_cm": [
+        -30,
+        0,
+        0
+      ],
+      "actual_cm": [
+        6.7,
+        2.15,
+        6.3
+      ]
+    },
+    {
+      "id": "A07",
+      "name": "Horse_grazing",
+      "target_cm": [
+        7.1,
+        2.2,
+        4.8
+      ],
+      "planned_origin_cm": [
+        -4.1,
+        -1.9,
+        11.2
+      ],
+      "note": "Sculpted horse study, not a scan. Thin legs/ears need material-specific review. Comparable body scale across all three poses.",
+      "station_cm": [
+        -18,
+        0,
+        0
+      ],
+      "actual_cm": [
+        7.1,
+        2.2,
+        4.8
+      ]
+    },
+    {
+      "id": "A08",
+      "name": "Horse_drinking",
+      "target_cm": [
+        7.1,
+        2.2,
+        4.65
+      ],
+      "planned_origin_cm": [
+        3.6,
+        -6.2,
+        1.54
+      ],
+      "note": "Sculpted horse study, not a scan. Thin legs/ears need material-specific review. Comparable body scale across all three poses.",
+      "station_cm": [
+        -6,
+        0,
+        0
+      ],
+      "actual_cm": [
+        7.1,
+        2.2,
+        4.65
+      ]
+    },
+    {
+      "id": "A09",
+      "name": "Pine_tree",
+      "target_cm": [
+        3.6,
+        3.4,
+        7.2
+      ],
+      "planned_origin_cm": [
+        -7.3,
+        3,
+        5.2
+      ],
+      "note": "One reusable pine; final quantity and placement deferred. Leaves grouped into sculptable clusters.",
+      "station_cm": [
+        8,
+        0,
+        0
+      ],
+      "actual_cm": [
+        3.6,
+        3.4,
+        7.2
+      ]
+    },
+    {
+      "id": "A10",
+      "name": "Bonsai_tree",
+      "target_cm": [
+        6.2,
+        4.6,
+        5.8
+      ],
+      "planned_origin_cm": [
+        -6.6,
+        4.5,
+        11.2
+      ],
+      "note": "Broad calm canopy. Root spread included in width. Branches need support review after clay is identified.",
+      "station_cm": [
+        20,
+        0,
+        0
+      ],
+      "actual_cm": [
+        6.2,
+        4.6,
+        5.8
+      ]
+    },
+    {
+      "id": "A11",
+      "name": "Sun_disc",
+      "target_cm": [
+        6.2,
+        0.45,
+        6.2
+      ],
+      "planned_origin_cm": [
+        -3.8,
+        7,
+        21.7
+      ],
+      "note": "Bottom datum at z21.7. Disc requires hidden rear support; no floating attachment implied.",
+      "station_cm": [
+        32,
+        0,
+        0
+      ],
+      "actual_cm": [
+        6.2,
+        0.45,
+        6.2
+      ]
+    },
+    {
+      "id": "A12",
+      "name": "Moon_pearl",
+      "target_cm": [
+        2.6,
+        2.6,
+        2.6
+      ],
+      "planned_origin_cm": [
+        4.7,
+        7,
+        24.4
+      ],
+      "note": "Optional pearl moon from reference. Additional rear pin required. Can omit for simpler peaceful composition.",
+      "station_cm": [
+        42,
+        0,
+        0
+      ],
+      "actual_cm": [
+        2.6,
+        2.6,
+        2.6
+      ]
+    },
+    {
+      "id": "A13",
+      "name": "Cloud_bank",
+      "target_cm": [
+        6,
+        1.4,
+        1.8
+      ],
+      "planned_origin_cm": [
+        -4.5,
+        5,
+        20.2
+      ],
+      "note": "Single clay cloud module; repetitions must stay inside the 20cm square and use concealed supports.",
+      "station_cm": [
+        -31,
+        -15,
+        0
+      ],
+      "actual_cm": [
+        6.0,
+        1.4,
+        1.8
+      ]
+    },
+    {
+      "id": "A14",
+      "name": "Grass_tuft",
+      "target_cm": [
+        2.2,
+        1.8,
+        1.1
+      ],
+      "planned_origin_cm": [
+        -7,
+        -6.8,
+        1.2
+      ],
+      "note": "Grass is represented as thick grouped blades; do not reproduce every fine strand in fragile clay.",
+      "station_cm": [
+        -20,
+        -15,
+        0
+      ],
+      "actual_cm": [
+        2.2,
+        1.8,
+        1.1
+      ]
+    },
+    {
+      "id": "A15",
+      "name": "Leaf_sprig",
+      "target_cm": [
+        2.8,
+        1.8,
+        0.6
+      ],
+      "planned_origin_cm": [
+        -7.4,
+        -4.5,
+        5.2
+      ],
+      "note": "Standalone sprig for hand study; leaf minimum nominal thickness 0.9mm before normalization, final thickness must be measured locally.",
+      "station_cm": [
+        -11,
+        -15,
+        0
+      ],
+      "actual_cm": [
+        2.8,
+        1.8,
+        0.6
+      ]
+    },
+    {
+      "id": "A16",
+      "name": "River_lower",
+      "target_cm": [
+        5.6,
+        7.6,
+        0.32
+      ],
+      "planned_origin_cm": [
+        1.5,
+        -5.5,
+        1.24
+      ],
+      "note": "Lower water slab only. Opaque glazed-clay study; resin is not assumed.",
+      "station_cm": [
+        0,
+        -15,
+        0
+      ],
+      "actual_cm": [
+        5.6,
+        7.6,
+        0.32
+      ]
+    },
+    {
+      "id": "A17",
+      "name": "Fall_lower",
+      "target_cm": [
+        2.2,
+        2.6,
+        4.0
+      ],
+      "planned_origin_cm": [
+        2.6,
+        -4.0,
+        1.3
+      ],
+      "note": "Separate waterfall module, downward flow. Final end interfaces and bank clearance are deferred to assembly.",
+      "station_cm": [
+        11,
+        -15,
+        0
+      ],
+      "actual_cm": [
+        2.2,
+        2.6,
+        4.0
+      ]
+    },
+    {
+      "id": "A18",
+      "name": "Fall_middle",
+      "target_cm": [
+        2.2,
+        2.6,
+        6.0
+      ],
+      "planned_origin_cm": [
+        3.4,
+        -0.6,
+        5.3
+      ],
+      "note": "Separate waterfall module, downward flow. Final end interfaces and bank clearance are deferred to assembly.",
+      "station_cm": [
+        18,
+        -15,
+        0
+      ],
+      "actual_cm": [
+        2.2,
+        2.6,
+        6.0
+      ]
+    },
+    {
+      "id": "A19",
+      "name": "Fall_upper",
+      "target_cm": [
+        2.2,
+        2.6,
+        6.0
+      ],
+      "planned_origin_cm": [
+        3.7,
+        3.3,
+        11.3
+      ],
+      "note": "Separate waterfall module, downward flow. Final end interfaces and bank clearance are deferred to assembly.",
+      "station_cm": [
+        25,
+        -15,
+        0
+      ],
+      "actual_cm": [
+        2.2,
+        2.6,
+        6.0
+      ]
+    },
+    {
+      "id": "A20",
+      "name": "Flower_and_moss_patch",
+      "target_cm": [
+        2.2,
+        1.8,
+        0.6
+      ],
+      "planned_origin_cm": [
+        -4.3,
+        -5.7,
+        5.2
+      ],
+      "note": "Optional grouped flowers; full-size standalone study, not a promise of individually modeled tiny petals in final clay.",
+      "station_cm": [
+        34,
+        -15,
+        0
+      ],
+      "actual_cm": [
+        2.2,
+        1.8,
+        0.6
+      ]
+    }
+  ]
+}

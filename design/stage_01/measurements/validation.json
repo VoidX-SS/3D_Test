@@ -1,0 +1,481 @@
+{
+  "saved_file_reopened": true,
+  "component_count": 20,
+  "passed": [
+    "centimeter unit scale",
+    "mesh dimensions within 0.008 cm",
+    "bottom-center datums",
+    "nonempty finite geometry",
+    "20 individual libraries exist",
+    "planned axis-aligned envelopes inside 20 x 20 x 27.9 cm"
+  ],
+  "not_verified": [
+    "final assembled intersections",
+    "hoof and muzzle contact",
+    "clay shrinkage",
+    "support strength",
+    "watertight printable solids"
+  ],
+  "assets": [
+    {
+      "id": "A01",
+      "measured_cm": [
+        20.0,
+        20.0,
+        1.2
+      ],
+      "max_error_cm": 4.768371586472142e-08,
+      "vertices": 96,
+      "faces": 98,
+      "planned_bounds_cm": [
+        [
+          -10.0,
+          -10.0,
+          0
+        ],
+        [
+          10.0,
+          10.0,
+          1.2
+        ]
+      ]
+    },
+    {
+      "id": "A02",
+      "measured_cm": [
+        19.0,
+        18.8,
+        4.0
+      ],
+      "max_error_cm": 7.629394538355427e-07,
+      "vertices": 12532,
+      "faces": 13595,
+      "planned_bounds_cm": [
+        [
+          -9.5,
+          -9.4,
+          1.2
+        ],
+        [
+          9.5,
+          9.4,
+          5.2
+        ]
+      ]
+    },
+    {
+      "id": "A03",
+      "measured_cm": [
+        14.2,
+        12.8,
+        6.0
+      ],
+      "max_error_cm": 2.0980834953832073e-06,
+      "vertices": 12214,
+      "faces": 13196,
+      "planned_bounds_cm": [
+        [
+          -8.9,
+          -4.1000000000000005,
+          5.2
+        ],
+        [
+          5.3,
+          8.7,
+          11.2
+        ]
+      ]
+    },
+    {
+      "id": "A04",
+      "measured_cm": [
+        9.2,
+        8.5,
+        6.0
+      ],
+      "max_error_cm": 1.1444091789769573e-06,
+      "vertices": 12063,
+      "faces": 13184,
+      "planned_bounds_cm": [
+        [
+          -4.6,
+          -0.15000000000000036,
+          11.2
+        ],
+        [
+          4.6,
+          8.35,
+          17.2
+        ]
+      ]
+    },
+    {
+      "id": "A05",
+      "measured_cm": [
+        4.2,
+        3.6,
+        8.3
+      ],
+      "max_error_cm": 3.0517578126776357e-06,
+      "vertices": 1232,
+      "faces": 1362,
+      "planned_bounds_cm": [
+        [
+          -1.9000000000000001,
+          5.2,
+          17.2
+        ],
+        [
+          2.3000000000000003,
+          8.8,
+          25.5
+        ]
+      ]
+    },
+    {
+      "id": "A06",
+      "measured_cm": [
+        6.7,
+        2.15,
+        6.3
+      ],
+      "max_error_cm": 1.1444091798651357e-06,
+      "vertices": 25750,
+      "faces": 25454,
+      "planned_bounds_cm": [
+        [
+          -3.65,
+          0.925,
+          17.2
+        ],
+        [
+          3.0500000000000003,
+          3.075,
+          23.5
+        ]
+      ]
+    },
+    {
+      "id": "A07",
+      "measured_cm": [
+        7.1,
+        2.2,
+        4.8
+      ],
+      "max_error_cm": 5.722045894884786e-07,
+      "vertices": 25658,
+      "faces": 25370,
+      "planned_bounds_cm": [
+        [
+          -7.6499999999999995,
+          -3.0,
+          11.2
+        ],
+        [
+          -0.5499999999999998,
+          -0.7999999999999998,
+          16.0
+        ]
+      ]
+    },
+    {
+      "id": "A08",
+      "measured_cm": [
+        7.1,
+        2.2,
+        4.65
+      ],
+      "max_error_cm": 1.6689300519345807e-07,
+      "vertices": 25812,
+      "faces": 25524,
+      "planned_bounds_cm": [
+        [
+          0.050000000000000266,
+          -7.300000000000001,
+          1.54
+        ],
+        [
+          7.15,
+          -5.1,
+          6.19
+        ]
+      ]
+    },
+    {
+      "id": "A09",
+      "measured_cm": [
+        3.6,
+        3.4,
+        7.2
+      ],
+      "max_error_cm": 3.8146972647368216e-07,
+      "vertices": 33318,
+      "faces": 34872,
+      "planned_bounds_cm": [
+        [
+          -9.1,
+          1.3,
+          5.2
+        ],
+        [
+          -5.5,
+          4.7,
+          12.4
+        ]
+      ]
+    },
+    {
+      "id": "A10",
+      "measured_cm": [
+        6.2,
+        4.6,
+        5.8
+      ],
+      "max_error_cm": 7.629394529473643e-07,
+      "vertices": 11202,
+      "faces": 11696,
+      "planned_bounds_cm": [
+        [
+          -9.7,
+          2.2,
+          11.2
+        ],
+        [
+          -3.4999999999999996,
+          6.8,
+          17.0
+        ]
+      ]
+    },
+    {
+      "id": "A11",
+      "measured_cm": [
+        6.2,
+        0.45,
+        6.2
+      ],
+      "max_error_cm": 1.1444091798651357e-06,
+      "vertices": 2868,
+      "faces": 2578,
+      "planned_bounds_cm": [
+        [
+          -6.9,
+          6.775,
+          21.7
+        ],
+        [
+          -0.6999999999999997,
+          7.225,
+          27.9
+        ]
+      ]
+    },
+    {
+      "id": "A12",
+      "measured_cm": [
+        2.6,
+        2.6,
+        2.6
+      ],
+      "max_error_cm": 1.5258789063388178e-06,
+      "vertices": 922,
+      "faces": 960,
+      "planned_bounds_cm": [
+        [
+          3.4000000000000004,
+          5.7,
+          24.4
+        ],
+        [
+          6.0,
+          8.3,
+          27.0
+        ]
+      ]
+    },
+    {
+      "id": "A13",
+      "measured_cm": [
+        6.0,
+        1.4,
+        1.8
+      ],
+      "max_error_cm": 3.8146972647368216e-07,
+      "vertices": 2730,
+      "faces": 2896,
+      "planned_bounds_cm": [
+        [
+          -7.5,
+          4.3,
+          20.2
+        ],
+        [
+          -1.5,
+          5.7,
+          22.0
+        ]
+      ]
+    },
+    {
+      "id": "A14",
+      "measured_cm": [
+        2.2,
+        1.8,
+        1.1
+      ],
+      "max_error_cm": 7.629394531694089e-07,
+      "vertices": 5082,
+      "faces": 4848,
+      "planned_bounds_cm": [
+        [
+          -8.1,
+          -7.7,
+          1.2
+        ],
+        [
+          -5.9,
+          -5.8999999999999995,
+          2.3
+        ]
+      ]
+    },
+    {
+      "id": "A15",
+      "measured_cm": [
+        2.8,
+        1.8,
+        0.6
+      ],
+      "max_error_cm": 7.629394531694089e-07,
+      "vertices": 810,
+      "faces": 776,
+      "planned_bounds_cm": [
+        [
+          -8.8,
+          -5.4,
+          5.2
+        ],
+        [
+          -6.0,
+          -3.6,
+          5.8
+        ]
+      ]
+    },
+    {
+      "id": "A16",
+      "measured_cm": [
+        5.6,
+        7.6,
+        0.32
+      ],
+      "max_error_cm": 5.722045894884786e-07,
+      "vertices": 4986,
+      "faces": 4732,
+      "planned_bounds_cm": [
+        [
+          -1.2999999999999998,
+          -9.3,
+          1.24
+        ],
+        [
+          4.3,
+          -1.7000000000000002,
+          1.56
+        ]
+      ]
+    },
+    {
+      "id": "A17",
+      "measured_cm": [
+        2.2,
+        2.6,
+        4.0
+      ],
+      "max_error_cm": 7.629394529473643e-07,
+      "vertices": 4700,
+      "faces": 4698,
+      "planned_bounds_cm": [
+        [
+          1.5,
+          -5.3,
+          1.3
+        ],
+        [
+          3.7,
+          -2.7,
+          5.3
+        ]
+      ]
+    },
+    {
+      "id": "A18",
+      "measured_cm": [
+        2.2,
+        2.6,
+        6.0
+      ],
+      "max_error_cm": 7.629394529473643e-07,
+      "vertices": 4700,
+      "faces": 4698,
+      "planned_bounds_cm": [
+        [
+          2.3,
+          -1.9,
+          5.3
+        ],
+        [
+          4.5,
+          0.7000000000000001,
+          11.3
+        ]
+      ]
+    },
+    {
+      "id": "A19",
+      "measured_cm": [
+        2.2,
+        2.6,
+        6.0
+      ],
+      "max_error_cm": 7.629394529473643e-07,
+      "vertices": 4700,
+      "faces": 4698,
+      "planned_bounds_cm": [
+        [
+          2.6,
+          1.9999999999999998,
+          11.3
+        ],
+        [
+          4.800000000000001,
+          4.6,
+          17.3
+        ]
+      ]
+    },
+    {
+      "id": "A20",
+      "measured_cm": [
+        2.2,
+        1.8,
+        0.6
+      ],
+      "max_error_cm": 3.0517578126776357e-06,
+      "vertices": 4358,
+      "faces": 4656,
+      "planned_bounds_cm": [
+        [
+          -5.4,
+          -6.6000000000000005,
+          5.2
+        ],
+        [
+          -3.1999999999999997,
+          -4.8,
+          5.8
+        ]
+      ]
+    }
+  ]
+}
