@@ -1,0 +1,99 @@
+{
+  "saved_file_reopened": true,
+  "units": "cm",
+  "same_uniform_scale_for_all_poses": true,
+  "passed": [
+    "three saved poses",
+    "finite nonempty geometry",
+    "measured bounding boxes",
+    "all twelve hoof soles on Z=0",
+    "scale preserved across poses"
+  ],
+  "body_topology": [
+    {
+      "id": "H01",
+      "dimensions_cm": [
+        7.5286,
+        1.7031,
+        6.3081
+      ],
+      "vertices": 131071,
+      "hoof_contacts_z_cm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "body_nonmanifold_edges": 0,
+      "body_connected_components": 1,
+      "body_component_vertex_counts": [
+        80867
+      ],
+      "sampled_cannon_min_xy_width_mm": {
+        "fore_near": 2.237,
+        "fore_far": 2.239,
+        "hind_near": 2.338,
+        "hind_far": 2.333
+      }
+    },
+    {
+      "id": "H02",
+      "dimensions_cm": [
+        7.0008,
+        1.7031,
+        4.4249
+      ],
+      "vertices": 131102,
+      "hoof_contacts_z_cm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "body_nonmanifold_edges": 0,
+      "body_connected_components": 1,
+      "body_component_vertex_counts": [
+        80898
+      ],
+      "sampled_cannon_min_xy_width_mm": {
+        "fore_near": 2.237,
+        "fore_far": 2.239,
+        "hind_near": 2.338,
+        "hind_far": 2.333
+      }
+    },
+    {
+      "id": "H03",
+      "dimensions_cm": [
+        7.1637,
+        1.7031,
+        4.4249
+      ],
+      "vertices": 132732,
+      "hoof_contacts_z_cm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "body_nonmanifold_edges": 0,
+      "body_connected_components": 1,
+      "body_component_vertex_counts": [
+        82528
+      ],
+      "sampled_cannon_min_xy_width_mm": {
+        "fore_near": 2.237,
+        "fore_far": 2.239,
+        "hind_near": 2.338,
+        "hind_far": 2.333
+      }
+    }
+  ],
+  "not_verified": [
+    "final terrain contacts",
+    "muzzle water contact after assembly",
+    "clay material strength",
+    "whole asset union or manufacturing readiness"
+  ],
+  "section_note": "Six horizontal samples between Z=0.65 and 1.15cm on the skin mesh only. X/Y spans are not a certified minimum diameter or strength test."
+}

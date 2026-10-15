@@ -1,0 +1,5 @@
+*.blend1
+*.log
+__pycache__/
+Horse_hero_working.blend
+renders/iteration_*.png

@@ -1,0 +1,134 @@
+{
+  "units": "cm",
+  "all_poses_same_uniform_scale": true,
+  "horses": [
+    {
+      "id": "H01",
+      "pose": "standing",
+      "dimensions_cm": [
+        7.5286,
+        1.7031,
+        6.3081
+      ],
+      "uniform_scale": 1.08,
+      "station_cm": [
+        0,
+        0,
+        0
+      ],
+      "withers_height_cm": 4.428,
+      "body_vertices": 131071,
+      "mesh_objects": 43,
+      "collection": "H01_standing",
+      "hoof_coronet_centers_cm": [
+        [
+          -1.7996,
+          -0.5184,
+          0.2916
+        ],
+        [
+          -1.3847,
+          0.5184,
+          0.2916
+        ],
+        [
+          1.1538,
+          -0.5184,
+          0.2916
+        ],
+        [
+          1.5809,
+          0.5184,
+          0.2916
+        ]
+      ]
+    },
+    {
+      "id": "H02",
+      "pose": "grazing",
+      "dimensions_cm": [
+        7.0008,
+        1.7031,
+        4.4249
+      ],
+      "uniform_scale": 1.08,
+      "station_cm": [
+        11,
+        0,
+        0
+      ],
+      "withers_height_cm": 4.428,
+      "body_vertices": 131102,
+      "mesh_objects": 43,
+      "collection": "H02_grazing",
+      "hoof_coronet_centers_cm": [
+        [
+          -2.0634,
+          -0.5184,
+          0.2916
+        ],
+        [
+          -1.6485,
+          0.5184,
+          0.2916
+        ],
+        [
+          0.8899,
+          -0.5184,
+          0.2916
+        ],
+        [
+          1.3171,
+          0.5184,
+          0.2916
+        ]
+      ]
+    },
+    {
+      "id": "H03",
+      "pose": "drinking",
+      "dimensions_cm": [
+        7.1637,
+        1.7031,
+        4.4249
+      ],
+      "uniform_scale": 1.08,
+      "station_cm": [
+        22,
+        0,
+        0
+      ],
+      "withers_height_cm": 4.428,
+      "body_vertices": 132732,
+      "mesh_objects": 43,
+      "collection": "H03_drinking",
+      "hoof_coronet_centers_cm": [
+        [
+          -1.982,
+          -0.5184,
+          0.2916
+        ],
+        [
+          -1.5671,
+          0.5184,
+          0.2916
+        ],
+        [
+          0.9713,
+          -0.5184,
+          0.2916
+        ],
+        [
+          1.3985,
+          0.5184,
+          0.2916
+        ]
+      ]
+    }
+  ],
+  "not_verified": [
+    "clay process or strength",
+    "final terrain contacts",
+    "watertight manufacturing mesh"
+  ]
+}
